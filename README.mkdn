@@ -7,7 +7,7 @@ To get started with manifest/legionos, you'll need to get familiar with [Repo](h
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/Legionrom/platform_manifest.git -b q
+repo init -u https://github.com/Arjith369/QuarantineEdition_android.git -b q
 
 ```
 
@@ -16,37 +16,5 @@ Then to sync up:
 ```
 repo sync -c -f --force-sync -j8
 ```
-
----------------------------------------------------------------------------------------
- Compilation of  LegionOS:
- ==================
-
-From root directory of project, perform following commands in terminal
-
-```bash
-$ . build/envsetup.sh
-$ lunch
-$ make legion
-```
-
-
- Maintainers:
- ================
-
- If u like to maintain LegionOS for ur device contact
- * [**Rajkale99**](https://t.me/rajkale99)
- 
-
- #TeamLegionOS
- ===============
-
- * [**Rajkale99**](https://t.me/rajkale99) - Founder/Lead Developer
- 
----------------------------------------------------------------------------------------
- Credits:
- =======
-
- * [**LineageOS**](https://github.com/LineageOS)
- * [**ROS**](https://github.com/RevengeOS)
 
 ---------------------------------------------------------------------------------------
